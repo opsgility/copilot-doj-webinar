@@ -112,7 +112,7 @@ You are an intelligence analyst supporting an FBI field office working a cross-c
 
 ### Prompt 2.1 — Timeline Construction from a Document
 
-1. Upload `DOJ-After-Action-Report.md` from the assets folder using the paperclip icon in Copilot Chat.
+1. Upload `DOJ-After-Action-Report.md` from the assets folder using the + icon in Copilot Chat.
 2. Enter this prompt:
 
 ```
@@ -195,7 +195,7 @@ You are a senior program analyst in a DOJ component's Office of Administration, 
 
 ### Prompt 3.1 — Budget Analysis Summary
 
-1. If your facilitator has provided `DOJ-Budget-Data.csv`, upload it to Copilot Chat.
+1. Upload `DOJ-Budget-Data.csv` from the assets folder using the + icon in Copilot Chat.
 2. Enter this prompt:
 
 ```
@@ -210,7 +210,7 @@ of key figures. Flag any data that appears incomplete or
 inconsistent.
 ```
 
-**If the CSV is not available, use this standalone version:**
+<!-- **If the CSV is not available, use this standalone version:**
 ```
 I am a senior program analyst preparing a budget planning memo.
 Describe the five most common budget execution risks for federal
@@ -218,7 +218,7 @@ program offices in the second half of a fiscal year, and recommend
 one mitigation action for each risk. Format as a structured list
 with a risk header and a one-sentence mitigation. Use formal
 government language.
-```
+``` -->
 
 ---
 
