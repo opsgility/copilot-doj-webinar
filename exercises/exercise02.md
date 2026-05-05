@@ -65,7 +65,7 @@ SCENARIO.
 
 **Refinement prompt:**
 ```
-Add a third paragraph that addresses case deconfliction procedures
+Add another paragraph that addresses case deconfliction procedures
 and the designated point of contact for the joint task force.
 Maintain the same formal tone.
 ```
